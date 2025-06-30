@@ -1,0 +1,1 @@
+mspdebug -d /dev/ttyACM0 -v 3300 tilib
